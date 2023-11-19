@@ -1,0 +1,137 @@
+study_id,subject_id,question_type,question,answer,split
+50414267,10000032,abnormality,what abnormalities are seen in this image?,lung opacity,train
+50414267,10000032,presence,is there lung opacity?,yes,train
+50414267,10000032,view,is this AP view?,no,train
+50414267,10000032,location,where is the lung opacity?,bilateral area,train
+50414267,10000032,difference,what has changed compared to the reference image?,the main image has an additional finding of lung opacity than the reference image. the main image is missing the finding of fracture than the reference image. ,train
+53911762,10000032,abnormality,what abnormalities are seen in this image?,fracture,train
+53911762,10000032,presence,is there fracture in the right rib area?,no,train
+53911762,10000032,location,where is the fracture?,left rib area,train
+53911762,10000032,difference,what has changed compared to the reference image?,nothing has changed.,train
+53189527,10000032,abnormality,what abnormalities are seen in this image?,fracture,train
+53189527,10000032,presence,is there fracture in the left rib area?,yes,train
+53189527,10000032,view,which view is this image taken?,PA view,train
+53189527,10000032,location,is the fracture located on the left side or right side?,left side,train
+53189527,10000032,difference,what has changed compared to the reference image?,nothing has changed.,train
+56699142,10000032,abnormality,is there evidence of any abnormalities in this image?,yes,train
+56699142,10000032,presence,is there consolidation?,no,train
+56699142,10000032,location,is the fracture located on the left side or right side?,left side,train
+56699142,10000032,difference,what has changed compared to the reference image?,nothing has changed.,train
+56164612,10000935,abnormality,what abnormalities are seen in the right upper lung?,lung opacity,train
+56164612,10000935,presence,is there evidence of pneumothorax in this image?,no,train
+56164612,10000935,location,is the pleural thickening located on the left side or right side?,right side,train
+56164612,10000935,difference,what has changed compared to the reference image?,the main image has an additional finding of pleural thickening than the reference image. the main image is missing the finding of pneumonia than the reference image. ,train
+50578979,10000935,abnormality,is there evidence of any abnormalities in this image?,yes,train
+50578979,10000935,presence,is there pleural effusion in the left area?,no,train
+50578979,10000935,location,where is the pleural effusion?,right area,train
+50578979,10000935,level,what level is the pleural effusion?,small,train
+50578979,10000935,difference,what has changed compared to the reference image?,"the main image has additional findings of vascular congestion, and pleural effusion than the reference image. the main image is missing the finding of fracture than the reference image. ",train
+56522600,10000935,abnormality,is there evidence of any abnormalities in this image?,yes,train
+56522600,10000935,presence,is there evidence of fracture in this image?,yes,train
+56522600,10000935,view,which view is this image taken?,PA view,train
+56522600,10000935,difference,what has changed compared to the reference image?,"the main image has an additional finding of fracture than the reference image. the main image is missing the findings of lung opacity, and pneumonia than the reference image. ",train
+51178377,10000935,abnormality,what abnormalities are seen in this image?,"lung opacity, pneumonia",train
+51178377,10000935,presence,is there evidence of pneumonia in this image?,yes,train
+51178377,10000935,location,where in the image is the lung opacity located?,left area,train
+51178377,10000935,level,what level is the lung opacity?,increasing,train
+51178377,10000935,difference,what has changed compared to the reference image?,"the main image has additional findings of pneumonia, and lung opacity than the reference image. the main image is missing the finding of vascular congestion than the reference image. ",train
+58219844,10000935,abnormality,what abnormalities are seen in this image?,vascular congestion,train
+58219844,10000935,presence,is there evidence of fracture in this image?,no,train
+58219844,10000935,level,what level is the vascular congestion?,mild,train
+58219844,10000935,difference,what has changed compared to the reference image?,the main image is missing the finding of pleural effusion than the reference image. ,train
+55697293,10000935,abnormality,is there evidence of any abnormalities in this image?,yes,train
+55697293,10000935,presence,is there evidence of pleural thickening in this image?,no,train
+55697293,10000935,view,is this AP view?,no,train
+55697293,10000935,location,where in the image is the fracture located?,right rib area,train
+55697293,10000935,difference,what has changed compared to the reference image?,"the main image has an additional finding of fracture than the reference image. the main image is missing the findings of lung opacity, and pneumonia than the reference image. ",train
+50225296,10001401,abnormality,is there evidence of any abnormalities in this image?,no,train
+50225296,10001401,presence,is there evidence of vascular congestion in this image?,no,train
+50225296,10001401,difference,what has changed compared to the reference image?,nothing has changed.,train
+58747570,10001401,abnormality,is there evidence of any abnormalities in this image?,yes,train
+58747570,10001401,presence,is there edema?,no,train
+58747570,10001401,view,which view is this image taken?,PA view,train
+58747570,10001401,location,where is the atelectasis?,basal area,train
+58747570,10001401,level,what level is the atelectasis?,mild,train
+58747570,10001401,difference,what has changed compared to the reference image?,"the main image has additional findings of hilar congestion, and atelectasis than the reference image. ",train
+56534136,10001401,abnormality,is there evidence of any abnormalities in this image?,no,train
+56534136,10001401,presence,is there pneumothorax?,no,train
+56534136,10001401,difference,what has changed compared to the reference image?,the main image is missing the finding of atelectasis than the reference image. ,train
+51065211,10001401,abnormality,is there evidence of any abnormalities in this image?,yes,train
+51065211,10001401,presence,is there evidence of pneumonia in this image?,no,train
+51065211,10001401,view,is this PA view?,yes,train
+51065211,10001401,level,what level is the atelectasis?,mild,train
+51065211,10001401,difference,what has changed compared to the reference image?,the main image has an additional finding of atelectasis than the reference image. ,train
+57492692,10001401,abnormality,what abnormalities are seen in this image?,"atelectasis, lung opacity",train
+57492692,10001401,presence,is there lung opacity?,yes,train
+57492692,10001401,level,what level is the lung opacity?,mild,train
+57492692,10001401,difference,what has changed compared to the reference image?,the main image has an additional finding of lung opacity than the reference image. ,train
+55350604,10001401,view,which view is this image taken?,PA view,train
+55350604,10001401,difference,what has changed compared to the reference image?,"the main image is missing the findings of atelectasis, and hilar congestion than the reference image. ",train
+54935705,10000980,abnormality,what abnormalities are seen in this image?,"edema, consolidation, pleural effusion, cardiomegaly, infection",train
+54935705,10000980,presence,is there evidence of edema in this image?,yes,train
+54935705,10000980,view,which view is this image taken?,PA view,train
+54935705,10000980,location,where in the image is the consolidation located?,left upper lung area,train
+54935705,10000980,level,what level is the cardiomegaly?,moderate,train
+54935705,10000980,difference,what has changed compared to the reference image?,"the main image has additional findings of cardiomegaly, consolidation, and pleural effusion than the reference image. the main image is missing the finding of calcification than the reference image. ",train
+54980801,10000980,abnormality,is there evidence of any abnormalities in this image?,yes,train
+54980801,10000980,presence,is there evidence of calcification in this image?,yes,train
+54980801,10000980,difference,what has changed compared to the reference image?,"the main image has an additional finding of calcification than the reference image. the main image is missing the findings of edema, consolidation, pleural effusion, cardiomegaly, and pneumonia than the reference image. ",train
+51967283,10000980,abnormality,is there evidence of any abnormalities in this image?,yes,train
+51967283,10000980,presence,is there pneumonia in the left upper lung area?,no,train
+51967283,10000980,view,is this PA view?,no,train
+51967283,10000980,location,where is the pneumonia?,right upper lung area,train
+51967283,10000980,difference,what has changed compared to the reference image?,the main image has an additional finding of pneumonia than the reference image. the main image is missing the finding of enlargement of the cardiac silhouette than the reference image. ,train
+59988438,10000980,abnormality,what abnormalities are seen in this image?,"pleural effusion, calcification",train
+59988438,10000980,presence,is there evidence of pleural effusion in this image?,yes,train
+59988438,10000980,view,is this PA view?,yes,train
+59988438,10000980,difference,what has changed compared to the reference image?,"the main image has additional findings of calcification, and pleural effusion than the reference image. the main image is missing the finding of pneumonia than the reference image. ",train
+58206436,10000980,abnormality,is there evidence of any abnormalities in this image?,yes,train
+58206436,10000980,presence,is there lung opacity?,no,train
+58206436,10000980,location,where in the image is the pleural effusion located?,bilateral area,train
+58206436,10000980,level,what level is the cardiomegaly?,severe,train
+58206436,10000980,difference,what has changed compared to the reference image?,"the main image has additional findings of edema, and cardiomegaly than the reference image. the main image is missing the finding of calcification than the reference image. ",train
+50985099,10000980,abnormality,is there evidence of any abnormalities in this image?,yes,train
+50985099,10000980,presence,is there consolidation?,no,train
+50985099,10000980,view,is this PA view?,yes,train
+50985099,10000980,level,what level is the edema?,mild,train
+50985099,10000980,difference,what has changed compared to the reference image?,"the main image has additional findings of calcification, and edema than the reference image. ",train
+57861150,10000980,abnormality,what abnormalities are seen in this image?,"atelectasis, pleural effusion, blunting of the costophrenic angle",train
+57861150,10000980,presence,is there evidence of edema in this image?,no,train
+57861150,10000980,view,is this AP view?,no,train
+57861150,10000980,location,where is the atelectasis?,the lung bases,train
+57861150,10000980,level,what level is the atelectasis?,mild,train
+57861150,10000980,difference,what has changed compared to the reference image?,"the main image has additional findings of atelectasis, and blunting of the costophrenic angle than the reference image. the main image is missing the finding of calcification than the reference image. ",train
+54577367,10000980,abnormality,what abnormalities are seen in this image?,enlargement of the cardiac silhouette,train
+54577367,10000980,presence,is there pneumonia?,no,train
+54577367,10000980,level,what level is the enlargement of the cardiac silhouette?,mild to moderate,train
+54577367,10000980,difference,what has changed compared to the reference image?,"the main image has an additional finding of enlargement of the cardiac silhouette than the reference image. the main image is missing the findings of pleural effusion, and calcification than the reference image. ",train
+58636672,10000980,abnormality,is there evidence of any abnormalities in this image?,yes,train
+58636672,10000980,presence,is there evidence of pleural effusion in this image?,yes,train
+58636672,10000980,view,which view is this image taken?,PA view,train
+58636672,10000980,level,what level is the cardiomegaly?,moderate,train
+58636672,10000980,difference,what has changed compared to the reference image?,the level of cardiomegaly has changed from severe to moderate. the level of pleural effusion has changed from small to mild moderate. the main image is missing the finding of edema than the reference image. ,train
+58219844,10000935,summary,what is the summary?, Innumerable pulmonary metastases.  Possible mild pulmonary vascular congestion.  Low lung volumes.,train
+56522600,10000935,summary,what is the summary?,No new abnormalities are demonstrated within the limitations of the chest radiograph technique.  Lung volumes are preserved.,train
+56164612,10000935,summary,what is the conclusion?,"New nodular opacities within both upper lobes, left greater than right.Findings are compatible with metastases, as was noted in the lung bases on the subsequent CT of the abdomen and pelvis performed later the same day.",train
+55697293,10000935,summary,what is the conclusion?,Stable chest radiograph.,train
+5118377,10000935,summary,what is the conclusion?,"Increasing left lung opacification which may reflect pneumonia superimposed on metastatic disease, although other etiologies such as lymphangitic pattern of metastatic spread could be considered.  CT may behelpful to evaluate further if needed clinically.",train
+50578979,10000935,summary,what is the conclusion?,"Low lung volumes and mild pulmonary vascular congestion is unchanged,New small right fissural pleural effusion,No new focal opacities to suggest pneumonia.",train
+56699142,10000032,summary,what is the summary?,No acute cardiopulmonary process,train
+53911762,10000032,summary,what is the summary?,No acute intrathoracic process,train
+53189527,10000032,summary,what is the summary?,No acute cardiopulmonary abnormality,train
+50414267,10000032,summary,what is the summary?,No acute cardiopulmonary process,train
+58747570,10001401,summary,what is the summary?,Hilar congestion without frank edema.  No convincing signs of pneumonia.,train
+57492692,10001401,summary,what is the summary?,NG tube in expected position with tip coiled in the stomach.No other interval change since chest radiograph performed earlier on the same day.,train
+56534136,10001401,summary,what is the summary?,An enteric tube courses below the level of the diaphragm,train
+55350609,10001401,summary,what is the conclusion?,Heart size top-normal.  Lungs grossly clear.  No pleural abnormality or evidence of central lymph node enlargement.,train
+51065211,10001401,summary,what is the conclusion?,Mild bibasilar atelectasis.  No signs of free air below the right hemidiaphragm.,train
+50225296,10001401,summary,what is the conclusion?,"No previous images.  Nasogastric tube extends to the mid body of the stomach,be for coiling on itself so that the tip lies close to the esophagogastri junction.For more optimal positioning, the to would have to be pulled back almost 10 cm and then hopefully redirected toward the lower stomach.Cardiac silhouette is within normal limits and there is no vascular congestion, pleural effusion, or acute focal pneumonia.",train
+59988438,10000980,summary,what is the impression?,"Tiny pleural effusions, new. Otherwise unremarkable.",train
+58636672,10000980,summary,what is the impression?,"As compared to ___, the lung volumes have slightly decreased.  Signs of mild overinflation and moderate pleural effusions persist.  Moderate cardiomegaly.  Elongation of the descending aorta.  No pneumonia.",train
+58206436,10000980,summary,what is the impression?,New mild pulmonary edema with persistent small bilateral pleural effusions.Severe cardiomegaly is likely accentuated due to low lung volumes and patient positioning.,train
+57861150,10000980,summary,conclusion about what is Inside image?, Interval resolution of previously seen mild pulmonary edema with trace bilateral pleural effusions.,train
+54980801,10000980,summary,conclusion about what is Inside image?,No acute cardiopulmonary process.,train
+54935705,10000980,summary,summary about image?,"Mild pulmonary edema with superimposed left upper lung consolidation, potentially more confluent edema versus superimposed infection.",train
+54577367,10000980,summary,what is the final report?,No radiographic evidence for pneumonia.,train
+51967283,10000980,summary,what is the summary?,"Right upper lobe pneumonia or mass.  However, given right hilar fullness, a mass resulting in post-obstructive pneumonia is within the differential.  Recommend chest CT with intravenous contrast for further assessment.",train
+50985099,10000980,summary,what is the summary?," Previous mild pulmonary edema and possible concurrent pneumonia has all cleared.  Heart is top-normal size, improved, and pleural effusions have resolved.  Right hilar vessels are still enlarged, perhaps due to pulmonary arterial hypertension.  Lateral view shows atherosclerotic coronar calcification in the left circumflex.",train
